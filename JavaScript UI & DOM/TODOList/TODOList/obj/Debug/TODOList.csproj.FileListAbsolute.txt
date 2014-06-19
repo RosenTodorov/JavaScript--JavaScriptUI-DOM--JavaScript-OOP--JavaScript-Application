@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\bin\TODOList.dll.config
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\bin\TODOList.dll
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\bin\TODOList.pdb
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\obj\Debug\TODOList.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\obj\Debug\TODOList.dll
+d:\user\documents\visual studio 2013\Projects\TODOList\TODOList\obj\Debug\TODOList.pdb

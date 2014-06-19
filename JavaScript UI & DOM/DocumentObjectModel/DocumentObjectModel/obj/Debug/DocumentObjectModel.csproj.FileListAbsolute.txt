@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\bin\DocumentObjectModel.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\bin\DocumentObjectModel.dll
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\bin\DocumentObjectModel.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\obj\Debug\DocumentObjectModel.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\obj\Debug\DocumentObjectModel.dll
+c:\users\rosen\documents\visual studio 2013\Projects\DocumentObjectModel\DocumentObjectModel\obj\Debug\DocumentObjectModel.pdb

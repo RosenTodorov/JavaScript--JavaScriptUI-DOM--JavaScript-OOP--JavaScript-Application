@@ -1,0 +1,14 @@
+﻿#message-box {
+    border: 1px solid purple;
+    width: 350px;
+    height: 150px;
+}
+
+#message-box-heading {
+    padding-left: 85px;
+}
+
+.message-box-btns {
+    margin-left: 16px;
+    margin-bottom: 20px;
+}

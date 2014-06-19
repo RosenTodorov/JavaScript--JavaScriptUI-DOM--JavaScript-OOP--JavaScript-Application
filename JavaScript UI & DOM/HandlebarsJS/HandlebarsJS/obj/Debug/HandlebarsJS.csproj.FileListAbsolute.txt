@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\bin\HandlebarsJS.dll.config
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\bin\HandlebarsJS.dll
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\bin\HandlebarsJS.pdb
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\obj\Debug\HandlebarsJS.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\obj\Debug\HandlebarsJS.dll
+d:\user\documents\visual studio 2013\Projects\HandlebarsJS\HandlebarsJS\obj\Debug\HandlebarsJS.pdb

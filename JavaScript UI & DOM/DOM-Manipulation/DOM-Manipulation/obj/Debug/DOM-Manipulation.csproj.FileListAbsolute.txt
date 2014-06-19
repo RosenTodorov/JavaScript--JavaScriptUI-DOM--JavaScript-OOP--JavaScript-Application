@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\bin\DOM-Manipulation.dll.config
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\bin\DOM-Manipulation.dll
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\bin\DOM-Manipulation.pdb
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\obj\Debug\DOM-Manipulation.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\obj\Debug\DOM-Manipulation.dll
+d:\user\documents\visual studio 2013\Projects\DOM-Manipulation\DOM-Manipulation\obj\Debug\DOM-Manipulation.pdb

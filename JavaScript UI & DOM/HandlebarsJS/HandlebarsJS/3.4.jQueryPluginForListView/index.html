@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>03.04.jQuery Plugin for ListView</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            font-weight: bold;
+            font-family: Arial;
+        }
+
+        table, tr, td, th {
+            border: 1px solid black;
+        }
+
+        th {
+            background-color: #A6A6A6;
+            color: white;
+        }
+
+        td {
+            padding: 3px;
+        }
+
+            td.course-number {
+                text-align: center;
+            }
+
+        tr:nth-child(odd) {
+            background-color: #D9D9D9;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Mark</th>
+            </tr>
+        </thead>
+        <tbody id="students-table">
+            <tr class="student-row">
+                <td>{{number}}</td>
+                <td>{{name}}</td>
+                <td>{{mark}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <script id="students-row-template" type="text/x-handlebars-template"></script>
+    <script src="handlebars.js"></script>
+    <script src="jquery-2.1.1.min.js"></script>
+    <script src="listviewplugin.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\bin\Kinetic.JS.dll.config
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\bin\Kinetic.JS.dll
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\bin\Kinetic.JS.pdb
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\obj\Debug\Kinetic.JS.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\obj\Debug\Kinetic.JS.dll
+D:\user\Documents\Visual Studio 2013\Projects\Kinetic.JS\Kinetic.JS\obj\Debug\Kinetic.JS.pdb

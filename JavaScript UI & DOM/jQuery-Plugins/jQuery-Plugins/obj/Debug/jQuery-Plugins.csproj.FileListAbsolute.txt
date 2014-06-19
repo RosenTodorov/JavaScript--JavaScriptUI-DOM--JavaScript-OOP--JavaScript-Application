@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\bin\jQuery-Plugins.dll.config
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\bin\jQuery-Plugins.dll
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\bin\jQuery-Plugins.pdb
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\obj\Debug\jQuery-Plugins.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\obj\Debug\jQuery-Plugins.dll
+d:\user\documents\visual studio 2013\Projects\jQuery-Plugins\jQuery-Plugins\obj\Debug\jQuery-Plugins.pdb

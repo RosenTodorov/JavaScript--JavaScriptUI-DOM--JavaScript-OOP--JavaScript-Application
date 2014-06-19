@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #text-area {
+            display: block;
+            width: 400px;
+            height: 150px;
+        }
+    </style>
+</head>
+<body>
+    <label for="font-colorer">Choose font color</label>
+    <input type="color" id="font-color" />
+    <label for="background-color">Choose background color</label>
+    <input type="color" id="background-color" />
+    <button id="action-btn" onclick="changeProps()">Change attributes</button>
+    <textarea id="text-area"></textarea>
+    <script>
+        function changeProps() {
+            var area = document.getElementById("text-area");
+            var fontColor = document.getElementById("font-color").value;
+            var backColor = document.getElementById("background-color").value;
+            area.style.backgroundColor = backColor;
+            area.style.color = fontColor;
+        };
+
+        // change via event
+        //(function () {            
+
+        //    var area = document.getElementById('text-ar');
+        //    var fontColor = document.getElementById('font-colorer');
+        //    var backColor = document.getElementById('background-colorer');
+
+        //    fontColor.addEventListener("input", function () {
+        //        area.style.color = this.value;
+        //    });
+
+        //    backColor.addEventListener("input", function () {
+        //        area.style.backgroundColor = this.value;
+        //    });
+        //})();
+    </script>
+</body>
+</html>

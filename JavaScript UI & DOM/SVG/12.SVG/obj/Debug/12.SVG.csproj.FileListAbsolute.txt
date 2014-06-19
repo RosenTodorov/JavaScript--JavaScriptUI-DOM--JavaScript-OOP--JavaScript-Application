@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\bin\12.SVG.dll.config
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\bin\12.SVG.dll
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\bin\12.SVG.pdb
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\obj\Debug\12.SVG.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\obj\Debug\12.SVG.dll
+d:\user\documents\visual studio 2013\Projects\12.SVG\12.SVG\obj\Debug\12.SVG.pdb

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>01.Select All Divs</title>
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <button>Select using getElementsByTagName</button>
+    <button>Select using QuerySelector</button>
+    <div>independent div1</div>
+    <div>
+        <div>Div inside another div</div>
+        <div>Div inside another div</div>
+    </div>
+    <div>independent div2</div>
+    <script>
+        function usingQuerySelector() {
+            var nestedDivs = document.querySelectorAll("div>div");
+            for (var i = 0, len = nestedDivs.length; i < len; i+=1) {
+                console.log(nestedDivs[i]);
+            }
+        }
+
+        function usingGetElementsByTagName() {
+            var allDivs = document.getElementsByTagName('div');
+            var nestedDivs = [];
+            for (var i = 0; i < allDivs.length; i++) {
+                if (allDivs[i].parentNode instanceof HTMLDivElement) {
+                    nestedDivs.push(allDivs[i]);
+                }
+            }
+            return nestedDivs;
+        }
+
+    </script>
+</body>
+</html>

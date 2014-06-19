@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css"> 
+        #the-can{
+            width:586px;
+            height:300px;
+            border:1px solid black;
+        }    
+    </style>
+</head>
+<body>
+    <canvas id="the-can">Some bouncing balls</canvas>
+    <script>
+ //Draw a circle that flies inside a box. When it reaches an edge, it should bounce that edge
+        var canvas = document.getElementById("the-can"),
+            ctx = canvas.getContext('2d'),
+            maxRows = 300,
+            maxCols = 586,
+            row = 10,
+            col = 10,
+            radius = 5,
+            rowMove = 3,
+            colMove = 3;
+
+        function ballBounce() {
+            ctx.clearRect(0, 0, maxCols, maxRows);
+            drawCircle(col, row);
+
+            if (row + radius > canvas.height || row - radius < 0) {
+                rowMove *=-1;
+            }
+
+            if (col + radius > canvas.width || col - radius < 0) {
+                colMove *=-1;
+            }
+
+            row += rowMove;
+            col += colMove;
+
+            function drawCircle(x, y) {
+                ctx.beginPath();
+                ctx.arc(x, y, radius, 0, 2 * Math.PI);
+                ctx.fillStyle = 'blue';
+                ctx.fill();
+                ctx.stroke();
+            }
+            requestAnimationFrame(ballBounce);
+        }
+
+        ballBounce();
+    
+    </script>
+</body>
+</html>

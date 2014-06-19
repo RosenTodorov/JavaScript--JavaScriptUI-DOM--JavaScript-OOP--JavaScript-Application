@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\bin\HTML5-Canvas.dll.config
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\bin\HTML5-Canvas.dll
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\bin\HTML5-Canvas.pdb
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\obj\Debug\HTML5-Canvas.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\obj\Debug\HTML5-Canvas.dll
+d:\user\documents\visual studio 2013\Projects\HTML5-Canvas\HTML5-Canvas\obj\Debug\HTML5-Canvas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\bin\JQueryOverview.dll.config
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\bin\JQueryOverview.dll
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\bin\JQueryOverview.pdb
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\obj\Debug\JQueryOverview.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\obj\Debug\JQueryOverview.dll
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\JQueryOverview\JQueryOverview\obj\Debug\JQueryOverview.pdb

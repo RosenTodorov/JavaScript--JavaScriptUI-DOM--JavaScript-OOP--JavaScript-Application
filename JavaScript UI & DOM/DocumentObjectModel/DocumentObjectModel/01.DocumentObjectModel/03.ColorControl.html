@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>03.Color Control</title>
+</head>
+<body>
+    <input type="color" />
+    <button>Change Background Color</button>
+    <script>
+        var input = document.getElementsByTagName('input')[0];
+        var changeColorButton = document.getElementsByTagName('button')[0];
+
+        changeColorButton.onclick = function () {
+            color = input.value
+            changeBackgroundColor(color);
+        }
+
+        function changeBackgroundColor(color) {
+            document.body.style.background = color;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\bin\Raphael.dll.config
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\bin\Raphael.dll
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\bin\Raphael.pdb
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\obj\Debug\Raphael.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\obj\Debug\Raphael.dll
+d:\user\documents\visual studio 2013\Projects\Raphael\Raphael\obj\Debug\Raphael.pdb

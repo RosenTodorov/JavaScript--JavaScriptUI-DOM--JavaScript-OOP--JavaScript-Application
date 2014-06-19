@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\bin\CanvasAnimationsAndSVG.dll.config
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\bin\CanvasAnimationsAndSVG.dll
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\bin\CanvasAnimationsAndSVG.pdb
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\obj\Debug\CanvasAnimationsAndSVG.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\obj\Debug\CanvasAnimationsAndSVG.dll
+d:\user\documents\visual studio 2013\Projects\CanvasAnimationsAndSVG\CanvasAnimationsAndSVG\obj\Debug\CanvasAnimationsAndSVG.pdb
