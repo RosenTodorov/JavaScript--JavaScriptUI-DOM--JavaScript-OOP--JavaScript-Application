@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findGreatestOfFiveVariables(a, b, c, d, e) {
+            var digitArray = new Array(a, b, c, d, e);
+            var biggestValue = digitArray[0];
+
+            for (var i = 1; i < digitArray.length; i++) {
+                if (digitArray[i] > biggestValue) {
+                    biggestValue = digitArray[i];
+                }
+            }
+            return biggestValue;
+        }
+
+        jsConsole.writeLine(findGreatestOfFiveVariables(4, 3, 50, 10, 23));
+        jsConsole.writeLine(findGreatestOfFiveVariables(14, 5, 0, 4.5, 8));
+    </script>
+</body>
+</html>

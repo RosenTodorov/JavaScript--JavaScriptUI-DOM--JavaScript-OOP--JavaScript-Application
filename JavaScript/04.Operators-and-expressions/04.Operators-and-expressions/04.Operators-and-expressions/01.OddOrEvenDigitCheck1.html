@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form>
+        <input id="ValueOfX" type="text" />
+        <input type="button" value="Enter" onclick="Calculate()" />
+        <input type="text" id="ValueOfY" disabled="disabled" />
+
+    </form>
+    <script type="text/javascript">
+
+        function Calculate() {
+            var x = document.getElementById('ValueOfX').value;
+            var y;
+            if (x % 2 == 0) {
+                y = "EVEN";
+            }
+            else {
+                y = "ODD"
+            }
+            document.getElementById('ValueOfY').value = y;
+        }
+    </script>
+</body>
+</html>

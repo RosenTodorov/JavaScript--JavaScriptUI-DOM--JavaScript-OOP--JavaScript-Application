@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        // Write a function that makes a deep copy of an object. The function should work for both primitive and reference types
+
+        function copy(objectToClone) {
+            if (objectToClone == null || typeof objectToClone != 'object') {
+                return objectToClone;
+            }
+
+            var copy = objectToClone.constructor();
+
+            for (var attr in objectToClone) {
+                if (objectToClone.hasOwnProperty(attr)) {
+                    copy[attr] = objectToClone[attr];
+                }
+            }
+            return copy;
+        }
+
+        var person = {
+            fname: "Rosen",
+            lname: "Todorov",
+            EGN: 85011003142
+        }
+
+        jsConsole.writeLine(person.fname + ' ' + person.lname + ' ' + person.EGN);
+
+        var clonedPerson = copy(person);
+        jsConsole.writeLine(clonedPerson.fname + ' ' + clonedPerson.lname + ' ' + clonedPerson.EGN);
+        clonedPerson.EGN = 82134144124;
+
+        jsConsole.writeLine(person.fname + ' ' + person.lname + ' ' + person.EGN);
+        jsConsole.writeLine(clonedPerson.fname + ' ' + clonedPerson.lname + ' ' + clonedPerson.EGN);
+
+    </script>
+</body>
+</html>

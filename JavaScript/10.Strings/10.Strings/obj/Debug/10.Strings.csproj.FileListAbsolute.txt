@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\bin\10.Strings.dll.config
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\bin\10.Strings.dll
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\bin\10.Strings.pdb
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\obj\Debug\10.Strings.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\obj\Debug\10.Strings.dll
+d:\user\documents\visual studio 2013\Projects\10.Strings\10.Strings\obj\Debug\10.Strings.pdb

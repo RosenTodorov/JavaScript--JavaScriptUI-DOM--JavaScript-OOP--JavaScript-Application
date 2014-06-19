@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\bin\09.UsingObjects.dll.config
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\bin\09.UsingObjects.dll
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\bin\09.UsingObjects.pdb
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\obj\Debug\09.UsingObjects.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\obj\Debug\09.UsingObjects.dll
+d:\user\documents\visual studio 2013\Projects\09.UsingObjects\09.UsingObjects\obj\Debug\09.UsingObjects.pdb

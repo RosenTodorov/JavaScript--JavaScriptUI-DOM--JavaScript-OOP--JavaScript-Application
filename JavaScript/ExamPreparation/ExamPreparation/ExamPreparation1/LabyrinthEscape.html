@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function Solve(args) {
+            var matrixData = args[0].split(" ");
+            var matrixCols = parseInt(matrixData[1]);
+            var matrixRows = parseInt(matrixData[0]);
+
+            var coordinates = args[1].split(" ");
+            var currentRow = parseInt(coordinates[0]);
+            var currentCol = parseInt(coordinates[1]);
+
+            var field = args.slice(2); //maha parvite dve pozicii
+            var sum = 0;
+            var moves = 0;
+
+            var directions = {
+                l: {
+                    row: 0,
+                    column: -1
+                },
+                r: {
+                    row: 0,
+                    column: 1
+                },
+                u: {
+                    row: -1,
+                    column: 0
+                },
+                d: {
+                    row: 1,
+                    column: 0
+                },
+            };
+
+            var dir;
+            var visited = {};
+
+            while (currentRow >= 0 && currentRow < matrixRows && currentCol >= 0 && currentCol < matrixCols) {
+                if (visited[currentRow * matrixCols + currentCol]) {
+                    return "lost " + moves;
+                }
+
+                moves++;
+                visited[currentRow * matrixCols + currentCol] == true;
+                sum += (currentRow * matrixCols) + currentCol + 1;
+                dir = field[currentRow][currentCol];
+                currentRow += directions[dir].row;
+                currentCol += directions[dir].column;
+            }
+            return "out " + sum;
+        }
+        jsConsole.writeLine(Solve(["5 8", "0 0", "rrrrrrrd", "rludulrd", "lurlddud", "urrrldud", "ulllllll"]));
+    </script>
+</body>
+</html>

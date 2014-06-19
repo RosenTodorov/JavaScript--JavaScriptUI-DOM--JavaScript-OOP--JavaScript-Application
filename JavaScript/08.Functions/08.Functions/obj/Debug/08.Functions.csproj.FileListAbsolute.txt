@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\bin\08.Functions.dll.config
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\bin\08.Functions.dll
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\bin\08.Functions.pdb
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\obj\Debug\08.Functions.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\obj\Debug\08.Functions.dll
+d:\user\documents\visual studio 2013\Projects\08.Functions\08.Functions\obj\Debug\08.Functions.pdb

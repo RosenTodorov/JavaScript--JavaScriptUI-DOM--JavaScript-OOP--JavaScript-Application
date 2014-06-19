@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findOccurrencesOfAWord(text, substring, isCaseSensitive) {
+
+            function findOccurrencesOfAWordCaseInsensitive(text, substring) {
+
+                var index = 0;
+                var count = 0;
+
+                while (index != -1) {
+
+                    if (index == 0) {
+                        index = text.indexOf(substring, index);
+                    }
+                    else {
+                        index = text.indexOf(substring, index + 1);
+                    }
+                    if (index != -1) {
+                        count++;
+                    }
+                }
+                jsConsole.writeLine(count);
+            }
+
+            function findOccurrencesOfAWordCaseSensitive(text, substring) {
+                var index = 0;
+                var count = 0;
+
+                while (index != -1) {
+                    if (index == 0) {
+                        index = text.toLowerCase().indexOf(substring.toLowerCase(), index);
+                    }
+                    else {
+                        index = text.toLowerCase().indexOf(substring.toLowerCase(), index + 1);
+                    }
+                    if (index != -1) {
+                        count++;
+                    }
+                }
+                jsConsole.writeLine(count);
+            }
+
+            switch (arguments.length) {
+                case 2: findOccurrencesOfAWordCaseInsensitive(text, substring); break;
+                case 3: isCaseSensitive ? findOccurrencesOfAWordCaseSensitive(text, substring) : findOccurrencesOfAWordCaseInsensitive(text, substring); break;
+                default:
+            }
+        }
+
+        var textExample = "This is some random text, ohh yeah, text! Text";
+        var word = "text";
+
+        findOccurrencesOfAWord(textExample, word, true);
+        findOccurrencesOfAWord(textExample, word, false);
+        findOccurrencesOfAWord(textExample, word);
+    </script>
+</body>
+</html>

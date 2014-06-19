@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\bin\04.Operators-and-expressions.dll.config
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\bin\04.Operators-and-expressions.dll
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\bin\04.Operators-and-expressions.pdb
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\obj\Debug\04.Operators-and-expressions.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\obj\Debug\04.Operators-and-expressions.dll
+d:\user\documents\visual studio 2013\Projects\04.Operators-and-expressions\04.Operators-and-expressions\obj\Debug\04.Operators-and-expressions.pdb

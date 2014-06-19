@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\bin\01.DataTypesVariables.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\bin\01.DataTypesVariables.dll
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\bin\01.DataTypesVariables.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\obj\Debug\01.DataTypesVariables.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\obj\Debug\01.DataTypesVariables.dll
+c:\users\rosen\documents\visual studio 2013\Projects\01.DataTypesVariables\01.DataTypesVariables\obj\Debug\01.DataTypesVariables.pdb

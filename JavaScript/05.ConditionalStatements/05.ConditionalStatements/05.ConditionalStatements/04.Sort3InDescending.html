@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function sortThreeDigitsInDescending(a, b, c) {
+            var smallest, medium, biggest;
+            if (a > b) {
+                if (a > c) {
+                    biggest = a;
+                    if (b > c) {
+                        medium = b;
+                        smallest = c;
+                    }
+                    else {
+                        medium = c;
+                        smallest = b;
+                    }
+                }
+                else {
+                    biggest = c;
+                    medium = a;
+                    smallest = b;
+                }
+            }
+            else {
+                if (b < c) {
+                    biggest = c;
+                    medium = b;
+                    smallest = a;
+                }
+                else {
+                    biggest = b;
+                    if (a < c) {
+                        medium = c;
+                        smallest = a;
+                    }
+                    else {
+                        medium = a;
+                        smallest = c;
+                    }
+                }
+            }
+            
+            return new Array(smallest, medium, biggest);
+        }
+
+        var arr = sortThreeDigitsInDescending(1, 2, 3);
+        for (var i = 0; i < arr.length; i++) {
+            jsConsole.write(arr[i] + ' ');
+        }
+
+        jsConsole.writeLine();
+        arr = sortThreeDigitsInDescending(6, 3, 5);
+        for (var i = 0; i < arr.length; i++) {
+            jsConsole.write(arr[i] + ' ');
+        }
+
+        jsConsole.writeLine();
+        arr = sortThreeDigitsInDescending(3, 6, 4);
+        for (var i = 0; i < arr.length; i++) {
+            jsConsole.write(arr[i] + ' ');
+        }         
+    </script>
+</body>
+</html>
