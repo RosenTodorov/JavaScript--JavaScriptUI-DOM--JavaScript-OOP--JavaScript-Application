@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\bin\CrowdChat.dll.config
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\bin\CrowdChat.dll
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\bin\CrowdChat.pdb
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\obj\Debug\CrowdChat.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\obj\Debug\CrowdChat.dll
+d:\user\documents\visual studio 2013\Projects\CrowdChat\CrowdChat\obj\Debug\CrowdChat.pdb

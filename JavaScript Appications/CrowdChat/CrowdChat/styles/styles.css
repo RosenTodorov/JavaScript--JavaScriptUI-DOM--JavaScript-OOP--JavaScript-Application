@@ -1,0 +1,145 @@
+﻿html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 100%;
+    min-height: 100%;
+    background: black; /* Old browsers */
+    padding-top: 50px;
+}
+
+#nav {
+    margin-top: 0;
+    padding: 0;
+}
+
+.nav-item {
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    padding: 10px 58px;
+    border: 1px solid white;
+    border-left: none;
+    border-top: none;
+    background: red;
+}
+
+#home-li {
+    border-top-left-radius: 15px;
+}
+
+#chat-li {
+    margin-left: -4px;
+}
+
+#about-li {
+    margin-left: -4px;
+    margin-right: 0;
+    border-right: none;
+    border-top-right-radius: 15px;
+}
+
+.nav-item:hover {
+    background: #093569;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+}
+
+#container {
+    border: 1px solid white;
+    background: green;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 555px;
+    height: 390px;
+    margin-left: 350px;
+    padding: 0;
+}
+
+#label-user-name {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+}
+
+#tb-user-name {
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    font-size: 35px;
+    margin-left: 175px;
+    margin-top: 50px;
+}
+
+#chat-div {
+    height: 250px;
+    margin: 10px;
+    overflow-y: auto;
+    background: #c6d5fa;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#chat-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+    #chat-list li {
+        font-size: 20px;
+        margin-bottom: 3px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+        #chat-list li:nth-child(odd) {
+            background: #b1c6fa;
+        }
+
+        #chat-list li:nth-child(even) {
+            text-align: right;
+            background: #e2e8f7;
+        }
+
+        #chat-list li strong {
+            font-size: 22px;
+        }
+
+#send-div {
+    margin: 10px;
+    height: 60px;
+}
+
+#tb-send {
+    width: 415px;
+    height: 33px;
+    font-size: 22px;
+    padding: 4px;
+    padding-right: 10px;
+}
+
+#send-btn {
+    font-size: 26px;
+    padding: 5px 15px;
+    float: right;
+}
+
+#about-div {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    margin-top: 150px;
+}
