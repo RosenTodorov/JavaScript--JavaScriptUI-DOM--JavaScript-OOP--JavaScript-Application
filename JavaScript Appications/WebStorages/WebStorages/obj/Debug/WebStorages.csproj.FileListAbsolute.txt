@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\bin\WebStorages.dll.config
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\bin\WebStorages.dll
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\bin\WebStorages.pdb
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\obj\Debug\WebStorages.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\obj\Debug\WebStorages.dll
+d:\user\documents\visual studio 2013\Projects\WebStorages\WebStorages\obj\Debug\WebStorages.pdb
