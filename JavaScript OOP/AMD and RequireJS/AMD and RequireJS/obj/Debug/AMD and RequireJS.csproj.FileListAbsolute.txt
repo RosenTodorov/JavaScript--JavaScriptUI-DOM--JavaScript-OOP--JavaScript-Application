@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\bin\AMD and RequireJS.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\bin\AMD and RequireJS.dll
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\bin\AMD and RequireJS.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\obj\Debug\AMD and RequireJS.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\obj\Debug\AMD and RequireJS.dll
+c:\users\rosen\documents\visual studio 2013\Projects\AMD and RequireJS\AMD and RequireJS\obj\Debug\AMD and RequireJS.pdb

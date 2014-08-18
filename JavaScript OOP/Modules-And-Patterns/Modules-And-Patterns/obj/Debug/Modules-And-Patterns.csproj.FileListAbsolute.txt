@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\bin\Modules-And-Patterns.dll.config
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\bin\Modules-And-Patterns.dll
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\bin\Modules-And-Patterns.pdb
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\obj\Debug\Modules-And-Patterns.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\obj\Debug\Modules-And-Patterns.dll
+D:\user\Documents\Visual Studio 2013\Projects\Modules-And-Patterns\Modules-And-Patterns\obj\Debug\Modules-And-Patterns.pdb

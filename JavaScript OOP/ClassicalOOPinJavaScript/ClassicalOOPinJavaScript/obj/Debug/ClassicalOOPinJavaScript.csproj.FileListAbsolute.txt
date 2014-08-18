@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\bin\ClassicalOOPinJavaScript.dll.config
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\bin\ClassicalOOPinJavaScript.dll
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\bin\ClassicalOOPinJavaScript.pdb
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\obj\Debug\ClassicalOOPinJavaScript.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\obj\Debug\ClassicalOOPinJavaScript.dll
+d:\user\documents\visual studio 2013\Projects\ClassicalOOPinJavaScript\ClassicalOOPinJavaScript\obj\Debug\ClassicalOOPinJavaScript.pdb
